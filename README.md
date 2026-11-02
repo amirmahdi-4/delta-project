@@ -1,2 +1,0 @@
-# delta-project
-c++ program 
